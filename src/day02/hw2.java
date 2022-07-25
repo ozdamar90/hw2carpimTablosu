@@ -1,3 +1,5 @@
+
+package day02;
 public class hw2 {
     public static void main(String[] args) {
         int esit1 = 3;

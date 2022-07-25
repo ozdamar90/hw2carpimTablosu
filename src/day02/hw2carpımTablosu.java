@@ -1,3 +1,5 @@
+package day02;
+
 public class hw2carpımTablosu {
     public static void main(String[] args) {
 
